@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="java-db-mybatis" />
         <module name="java-design-pattern" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="java-design-pattern" target="1.7" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="coffeebaby" target="1.8" />
+      <module name="java-db-mybatis" target="1.8" />
+      <module name="java-design-pattern" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
