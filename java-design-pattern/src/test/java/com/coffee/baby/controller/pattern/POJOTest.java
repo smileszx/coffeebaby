@@ -1,4 +1,4 @@
-package com.coffee.baby.pattern;
+package com.coffee.baby.controller.pattern;
 
 import lombok.Data;
 

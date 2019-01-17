@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="java-db-mybatis" />
         <module name="java-design-pattern" />
+        <module name="spring-mvc" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="coffeebaby" target="1.8" />
+      <module name="coffebaby" target="1.8" />
       <module name="java-db-mybatis" target="1.8" />
       <module name="java-design-pattern" target="1.8" />
+      <module name="spring-mvc" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

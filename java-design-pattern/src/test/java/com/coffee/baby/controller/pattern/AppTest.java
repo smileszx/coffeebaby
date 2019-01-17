@@ -1,4 +1,4 @@
-package com.coffee.baby.mybatis;
+package com.coffee.baby.controller.pattern;
 
 import static org.junit.Assert.assertTrue;
 
@@ -9,6 +9,7 @@ import org.junit.Test;
  */
 public class AppTest 
 {
+
     /**
      * Rigorous Test :-)
      */
@@ -16,5 +17,10 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+        POJOTest po =  new POJOTest();
+        po.setUser("szx");
+        po.setCity("beijing");
+        po.setPsw("*****");
+        System.out.println(po);
     }
 }
