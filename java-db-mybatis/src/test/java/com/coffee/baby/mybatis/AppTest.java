@@ -1,4 +1,4 @@
-package com.coffee.baby.controller.mybatis;
+package com.coffee.baby.mybatis;
 
 import static org.junit.Assert.assertTrue;
 

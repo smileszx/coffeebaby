@@ -1,4 +1,4 @@
-package com.coffee.baby.controller.pattern.singleton;
+package com.coffee.baby.pattern.singleton;
 
 /**
  * @Classname HungryModeSingleton

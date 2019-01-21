@@ -22,6 +22,7 @@
     <module>java-db-mybatis</module>
     <module>java-design-pattern</module>
     <module>spring-mvc</module>
+      <module>netty-learn</module>
   </modules>
 
   <dependencies>

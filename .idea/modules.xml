@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/coffebaby.iml" filepath="$PROJECT_DIR$/coffebaby.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-db-mybatis/java-db-mybatis.iml" filepath="$PROJECT_DIR$/java-db-mybatis/java-db-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-design-pattern/java-design-pattern.iml" filepath="$PROJECT_DIR$/java-design-pattern/java-design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-learn/netty-learn.iml" filepath="$PROJECT_DIR$/netty-learn/netty-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-mvc/spring-mvc.iml" filepath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" />
     </modules>
   </component>

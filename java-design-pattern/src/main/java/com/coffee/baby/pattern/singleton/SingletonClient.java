@@ -1,4 +1,4 @@
-package com.coffee.baby.controller.pattern.singleton;
+package com.coffee.baby.pattern.singleton;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
