@@ -7,46 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdc56114-46a2-4e7b-9ad8-c4fed3cbd6ed" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/adapter/AdapterClient.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/adapter/DBOperation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/adapter/DBOperationAdapter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/adapter/DBOperationClassAdapter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/adapter/DBOperationInterface.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/adapter/DBOperationServer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/adapter/UserInfo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/factory/BubbleBeeTransformer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/factory/PrimeTransformer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/factory/SimpleFactoryClient.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/factory/Transformer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/factory/TransformerSimpleFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/observer/MessageSender.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/observer/MyObserver.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/observer/ObserverClient.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/observer/ObserverI.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_32_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_32_Final.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jstl_javax_servlet_jsp_jstl_api_1_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jstl_javax_servlet_jsp_jstl_api_1_2_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_jcl_2_11_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_jcl_2_11_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j18_impl_2_11_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j18_impl_2_11_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_8_0_beta2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_8_0_beta2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_4_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_4_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_4_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_4_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_4_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_4_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_4_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_4_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_4_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_4_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_4_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_4_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_4_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_4_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_4_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_4_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_4_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyClient.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyClientHandler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyClientInitializer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyServer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyServerHandler.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyServerInitializer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/techblog/netty/Netty框架.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/nettydemo/TestHttpServerHandler.java" afterPath="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/nettydemo/TestHttpServerHandler.java" />
       <change beforePath="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/nettydemo/TestServer.java" afterPath="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/nettydemo/TestServer.java" />
+      <change beforePath="$PROJECT_DIR$/techblog/todo/得到日志.md" afterPath="$PROJECT_DIR$/techblog/todo/得到日志.md" />
     </list>
     <ignored path="$PROJECT_DIR$/java-design-pattern/target/" />
     <ignored path="$PROJECT_DIR$/java-db-mybatis/target/" />
@@ -95,11 +66,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="DBOperation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/adapter/DBOperation.java">
+      <file leaf-file-name="MyServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="408">
+              <caret line="27" column="56" lean-forward="true" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyServerHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyServerHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,122 +88,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Transformer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/factory/Transformer.java">
+      <file leaf-file-name="MyServerInitializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyServerInitializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="288">
+              <caret line="19" column="58" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrimeTransformer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/factory/PrimeTransformer.java">
+      <file leaf-file-name="MyClientInitializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyClientInitializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+            <state relative-caret-position="181">
+              <caret line="18" column="64" lean-forward="true" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
               <folding>
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BubbleBeeTransformer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/factory/BubbleBeeTransformer.java">
+      <file leaf-file-name="MyClientHandler.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyClientHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            <state relative-caret-position="77">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
               <folding>
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#454#455#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TransformerSimpleFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/factory/TransformerSimpleFactory.java">
+      <file leaf-file-name="MyClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state relative-caret-position="178">
+              <caret line="18" column="61" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="61" />
               <folding>
-                <element signature="e#791#792#0" expanded="true" />
-                <element signature="e#836#837#0" expanded="true" />
-                <element signature="e#943#944#0" expanded="true" />
-                <element signature="e#992#993#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SimpleFactoryClient.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/factory/SimpleFactoryClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DBOperationAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/adapter/DBOperationAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DBOperationServer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/adapter/DBOperationServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DBOperationInterface.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/adapter/DBOperationInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DBOperationClassAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/adapter/DBOperationClassAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -261,12 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/techblog/design/设计模式TODO.md" />
-        <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/singleton/FullSingleton.java" />
-        <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/singleton/HungryModeSingleton.java" />
-        <option value="$PROJECT_DIR$/java-db-mybatis/sqlSessionConfig.xml" />
-        <option value="$PROJECT_DIR$/java-db-mybatis/src/main/sqlSessionConfig.xml" />
-        <option value="$PROJECT_DIR$/java-db-mybatis/d.xml" />
         <option value="$PROJECT_DIR$/java-db-mybatis/SQLSessionConfig.xml" />
         <option value="$PROJECT_DIR$/java-design-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/java-design-pattern/src/test/java/com/coffee/baby/pattern/POJOTest.java" />
@@ -294,8 +194,6 @@
         <option value="$PROJECT_DIR$/netty-learn/pom.xml" />
         <option value="$USER_HOME$/.IntelliJIdea2017.3/config/idea64.exe.vmoptions" />
         <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/nettydemo/TestServerInitializer.java" />
-        <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/nettydemo/TestHttpServerHandler.java" />
-        <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/nettydemo/TestServer.java" />
         <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/adapter/UserInfo.java" />
         <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/adapter/DBOperation.java" />
         <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/adapter/DBOperationForClient.java" />
@@ -312,6 +210,14 @@
         <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/factory/BubbleBeeTransformer.java" />
         <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/factory/PrimeTransformer.java" />
         <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/factory/SimpleFactoryClient.java" />
+        <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/nettydemo/TestHttpServerHandler.java" />
+        <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/nettydemo/TestServer.java" />
+        <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyServerInitializer.java" />
+        <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyClientInitializer.java" />
+        <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyServerHandler.java" />
+        <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyClient.java" />
+        <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyServer.java" />
+        <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyClientHandler.java" />
       </list>
     </option>
   </component>
@@ -341,18 +247,18 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-mvc Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="netty-learn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-mvc Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="netty-learn" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="286" />
     <option name="y" value="299" />
     <option name="width" value="1807" />
@@ -396,71 +302,13 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
               <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
-              <item name="java-design-pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
-              <item name="java-design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
-              <item name="java-design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
-              <item name="java-design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
-              <item name="java-design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
-              <item name="java-design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
-              <item name="java-design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
-              <item name="java-design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
@@ -512,24 +360,21 @@
               <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
               <item name="netty-learn" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
-              <item name="netty-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="baby" type="462c0819:PsiDirectoryNode" />
+              <item name="socketdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
+              <item name="techblog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
+              <item name="techblog" type="462c0819:PsiDirectoryNode" />
+              <item name="netty" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
@@ -558,11 +403,10 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -600,7 +444,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleFactoryClient">
+  <component name="RunManager" selected="Application.MyClient">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -608,14 +452,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="AdapterClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.coffee.baby.pattern.adapter.*" />
+          <option name="PATTERN" value="com.coffee.baby.socketdemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.coffee.baby.pattern.adapter.AdapterClient" />
+      <option name="MAIN_CLASS_NAME" value="com.coffee.baby.socketdemo.MyClient" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -624,7 +468,26 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java-design-pattern" />
+      <module name="netty-learn" />
+      <envs />
+    </configuration>
+    <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.coffee.baby.socketdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.coffee.baby.socketdemo.MyServer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="netty-learn" />
       <envs />
     </configuration>
     <configuration name="ObserverClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -635,25 +498,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.coffee.baby.pattern.observer.ObserverClient" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="java-design-pattern" />
-      <envs />
-    </configuration>
-    <configuration name="PrototypeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.coffee.baby.pattern.prototype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.coffee.baby.pattern.prototype.PrototypeClient" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -883,19 +727,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.springmvc" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PrototypeClient" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestServer" />
-      <item index="3" class="java.lang.String" itemvalue="Application.AdapterClient" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ObserverClient" />
-      <item index="5" class="java.lang.String" itemvalue="Application.SimpleFactoryClient" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestServer" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ObserverClient" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SimpleFactoryClient" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MyServer" />
+      <item index="5" class="java.lang.String" itemvalue="Application.MyClient" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.SimpleFactoryClient" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ObserverClient" />
-        <item index="2" class="java.lang.String" itemvalue="Application.AdapterClient" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestServer" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PrototypeClient" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MyClient" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MyServer" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestServer" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SimpleFactoryClient" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ObserverClient" />
       </list>
     </recent_temporary>
   </component>
@@ -929,7 +773,12 @@
       <workItem from="1548081733804" duration="62000" />
       <workItem from="1548082050886" duration="44000" />
       <workItem from="1548082244733" duration="3381000" />
-      <workItem from="1548114983966" duration="8893000" />
+      <workItem from="1548114983966" duration="15008000" />
+      <workItem from="1548137314098" duration="938000" />
+      <workItem from="1548138589039" duration="739000" />
+      <workItem from="1548139430525" duration="214000" />
+      <workItem from="1548139905980" duration="2853000" />
+      <workItem from="1548143071439" duration="1295000" />
     </task>
     <task id="LOCAL-00001" summary="init coffee baby">
       <created>1547653276583</created>
@@ -1009,10 +858,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57601000" />
+    <option name="totallyTimeSpent" value="69755000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1021,28 +870,28 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2194206" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30472103" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2688053" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2920354" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29077253" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23444206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15933476" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39933628" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1081,259 +930,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE.jar!/org/springframework/web/context/request/ServletRequestAttributes.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE.jar!/org/springframework/web/context/request/async/WebAsyncTask.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE.jar!/org/springframework/web/context/request/async/CallableProcessingInterceptor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE.jar!/org/springframework/web/context/request/async/WebAsyncManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="87" column="56" lean-forward="false" selection-start-line="87" selection-start-column="56" selection-end-line="87" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12600">
-          <caret line="606" column="18" lean-forward="false" selection-start-line="606" selection-start-column="18" selection-end-line="606" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="53" column="23" lean-forward="false" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="30" />
-          <folding>
-            <marker date="1547706100025" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1547706100025" expanded="false" signature="155:2211" ph="..." />
-            <marker date="1547706100025" expanded="true" signature="5321:5332" ph=" { " />
-            <marker date="1547706100025" expanded="true" signature="5369:5375" ph=" }" />
-            <marker date="1547706100025" expanded="true" signature="5451:5542" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="5622:5695" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="5775:5848" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="5948:6041" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="6117:6186" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="6278:6363" ph="{...}" />
-            <marker date="1547706100025" expanded="false" signature="6432:6443" ph=" { " />
-            <marker date="1547706100025" expanded="false" signature="6490:6496" ph=" }" />
-            <marker date="1547706100025" expanded="false" signature="6554:6565" ph=" { " />
-            <marker date="1547706100025" expanded="false" signature="6594:6600" ph=" }" />
-            <marker date="1547706100025" expanded="true" signature="6664:7077" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="7146:7835" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="7901:8692" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="8757:9536" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="9603:10747" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="10814:11958" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="12035:13330" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="13409:14293" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="14358:15472" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="15539:16342" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="16404:16536" ph="{...}" />
-            <marker date="1547706100025" expanded="false" signature="16609:16620" ph=" { " />
-            <marker date="1547706100025" expanded="false" signature="16650:16656" ph=" }" />
-            <marker date="1547706100025" expanded="true" signature="16731:16843" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="16940:17283" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="17388:18731" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="18820:18901" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="19007:20885" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="20943:22549" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="21005:22541" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="21184:21306" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="22181:22292" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="22656:25601" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="25713:25951" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="26172:27343" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="27420:27689" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="27590:27682" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="27793:28907" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="28979:29256" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="29322:29678" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="29786:30221" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="30332:30770" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="30859:31384" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="31566:33057" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="33177:34542" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="34643:34752" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="34917:35342" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="35520:35666" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="35773:36907" ph="{...}" />
-            <marker date="1547706100025" expanded="true" signature="36977:37173" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/techblog/design/设计模式TODO.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="99">
-            <caret line="58" column="32" lean-forward="false" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/org.springframework.web.servlet.DispatcherServlet">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>org.springframework.web.servlet.DispatcherServlet</OriginalElement>
-          <nodes>
-            <node x="134.0" y="0.0">javax.servlet.ServletConfig</node>
-            <node x="229.3214285714286" y="172.0">javax.servlet.http.HttpServlet</node>
-            <node x="660.4285714285714" y="430.0">org.springframework.web.servlet.DispatcherServlet</node>
-            <node x="430.875" y="258.0">org.springframework.web.servlet.HttpServletBean</node>
-            <node x="421.875" y="172.0">org.springframework.context.EnvironmentAware</node>
-            <node x="113.44642857142861" y="86.0">javax.servlet.GenericServlet</node>
-            <node x="642.875" y="172.0">org.springframework.core.env.EnvironmentCapable</node>
-            <node x="0.0" y="0.0">javax.servlet.Servlet</node>
-            <node x="736.0416666666667" y="86.0">org.springframework.beans.factory.Aware</node>
-            <node x="658.9285714285714" y="344.0">org.springframework.web.servlet.FrameworkServlet</node>
-            <node x="876.875" y="172.0">org.springframework.context.ApplicationContextAware</node>
-            <node x="316.0" y="0.0">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="org.springframework.context.ApplicationContextAware" target="org.springframework.beans.factory.Aware">
-              <point x="0.0" y="-18.0" />
-              <point x="1002.375" y="147.0" />
-              <point x="817.7916666666667" y="147.0" />
-              <point x="27.25" y="18.0" />
-            </edge>
-            <edge source="org.springframework.web.servlet.FrameworkServlet" target="org.springframework.web.servlet.HttpServletBean">
-              <point x="-48.75" y="-18.0" />
-              <point x="707.6785714285714" y="319.0" />
-              <point x="522.375" y="319.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="javax.servlet.http.HttpServlet" target="java.io.Serializable">
-              <point x="37.0" y="-18.0" />
-              <point x="340.3214285714286" y="147.0" />
-              <point x="424.75" y="147.0" />
-              <point x="36.25" y="18.0" />
-            </edge>
-            <edge source="org.springframework.web.servlet.DispatcherServlet" target="org.springframework.web.servlet.FrameworkServlet">
-              <point x="0.0" y="-18.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="javax.servlet.GenericServlet" target="java.io.Serializable">
-              <point x="56.666666666666686" y="-18.0" />
-              <point x="255.1130952380953" y="61.0" />
-              <point x="352.25" y="61.0" />
-              <point x="-36.25" y="18.0" />
-            </edge>
-            <edge source="org.springframework.context.EnvironmentAware" target="org.springframework.beans.factory.Aware">
-              <point x="0.0" y="-18.0" />
-              <point x="522.375" y="147.0" />
-              <point x="763.2916666666667" y="147.0" />
-              <point x="-27.25" y="18.0" />
-            </edge>
-            <edge source="org.springframework.web.servlet.HttpServletBean" target="org.springframework.context.EnvironmentAware">
-              <point x="0.0" y="-18.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="javax.servlet.http.HttpServlet" target="javax.servlet.GenericServlet">
-              <point x="-37.0" y="-18.0" />
-              <point x="266.3214285714286" y="147.0" />
-              <point x="198.4464285714286" y="147.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="org.springframework.web.servlet.HttpServletBean" target="org.springframework.core.env.EnvironmentCapable">
-              <point x="61.0" y="-18.0" />
-              <point x="583.375" y="233.0" />
-              <point x="749.875" y="233.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="javax.servlet.GenericServlet" target="javax.servlet.ServletConfig">
-              <point x="0.0" y="-18.0" />
-              <point x="198.4464285714286" y="61.0" />
-              <point x="215.0" y="61.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="javax.servlet.GenericServlet" target="javax.servlet.Servlet">
-              <point x="-56.66666666666666" y="-18.0" />
-              <point x="141.77976190476193" y="61.0" />
-              <point x="57.0" y="61.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="org.springframework.web.servlet.HttpServletBean" target="javax.servlet.http.HttpServlet">
-              <point x="-61.0" y="-18.0" />
-              <point x="461.375" y="233.0" />
-              <point x="303.3214285714286" y="233.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-            <edge source="org.springframework.web.servlet.FrameworkServlet" target="org.springframework.context.ApplicationContextAware">
-              <point x="48.75" y="-18.0" />
-              <point x="805.1785714285714" y="319.0" />
-              <point x="1002.375" y="319.0" />
-              <point x="0.0" y="18.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.4181184668989547" x="564.0" y="233.0" />
-          <SelectedNodes>
-            <node>java.io.Serializable</node>
-          </SelectedNodes>
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/controller/TestController.java" />
-    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/ItemController.java" />
-    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/resources/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/ItemController.java" />
-    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/controller/ItemController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4464">
-          <caret line="211" column="28" lean-forward="false" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/prototype/Prototype.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -1363,29 +959,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/netty-learn/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$USER_HOME$/.IntelliJIdea2017.3/config/idea64.exe.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/nettydemo/TestHttpServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1393,59 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1944">
           <caret line="105" column="54" lean-forward="false" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="54" />
-          <folding>
-            <marker date="1548079346283" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1548079346283" expanded="false" signature="142:933" ph="..." />
-            <marker date="1548079346283" expanded="true" signature="1506:1513" ph="{}" />
-            <marker date="1548079346283" expanded="true" signature="1570:2016" ph="{...}" />
-            <marker date="1548079346283" expanded="false" signature="2072:2083" ph=" { " />
-            <marker date="1548079346283" expanded="false" signature="2115:2121" ph=" }" />
-            <marker date="1548079346283" expanded="true" signature="2211:2555" ph="{...}" />
-            <marker date="1548079346283" expanded="true" signature="2639:3225" ph="{...}" />
-            <marker date="1548079346283" expanded="true" signature="3303:3623" ph="{...}" />
-            <marker date="1548079346283" expanded="true" signature="3694:3895" ph="{...}" />
-            <marker date="1548079346283" expanded="true" signature="3945:6007" ph="{...}" />
-            <marker date="1548079346283" expanded="true" signature="5298:5998" ph="{...}" />
-            <marker date="1548079346283" expanded="true" signature="5371:5988" ph="{...}" />
-            <marker date="1548079346283" expanded="true" signature="5698:5972" ph="{...}" />
-            <marker date="1548079346283" expanded="true" signature="5738:5954" ph="{...}" />
-            <marker date="1548079346283" expanded="true" signature="6047:6437" ph="{...}" />
-            <marker date="1548079346283" expanded="false" signature="6513:6524" ph=" { " />
-            <marker date="1548079346283" expanded="false" signature="6547:6553" ph=" }" />
-            <marker date="1548079346283" expanded="false" signature="6632:6643" ph=" { " />
-            <marker date="1548079346283" expanded="false" signature="6666:6672" ph=" }" />
-            <marker date="1548079346283" expanded="false" signature="6708:6719" ph=" { " />
-            <marker date="1548079346283" expanded="false" signature="6752:6758" ph=" }" />
-            <marker date="1548079346283" expanded="true" signature="6764:6782" ph="/**...*/" />
-            <marker date="1548079346283" expanded="false" signature="6837:6848" ph=" { " />
-            <marker date="1548079346283" expanded="false" signature="6871:6877" ph=" }" />
-            <marker date="1548079346283" expanded="false" signature="6918:6929" ph=" { " />
-            <marker date="1548079346283" expanded="false" signature="6954:6960" ph=" }" />
-            <marker date="1548079346283" expanded="false" signature="7016:7027" ph=" { " />
-            <marker date="1548079346283" expanded="false" signature="7063:7069" ph=" }" />
-            <marker date="1548079346283" expanded="false" signature="7122:7133" ph=" { " />
-            <marker date="1548079346283" expanded="false" signature="7167:7173" ph=" }" />
-            <marker date="1548079346283" expanded="false" signature="7222:7233" ph=" { " />
-            <marker date="1548079346283" expanded="false" signature="7252:7258" ph=" }" />
-            <marker date="1548079346283" expanded="true" signature="7346:9955" ph="{...}" />
-            <marker date="1548079346283" expanded="true" signature="7841:8208" ph="{...}" />
-            <marker date="1548079346283" expanded="true" signature="8072:8197" ph="{...}" />
-            <marker date="1548079346283" expanded="false" signature="8107:8130" ph=" { " />
-            <marker date="1548079346283" expanded="false" signature="8165:8183" ph=" }" />
-            <marker date="1548079346283" expanded="true" signature="8281:9319" ph="{...}" />
-            <marker date="1548079346283" expanded="true" signature="8899:9212" ph="{...}" />
-            <marker date="1548079346283" expanded="true" signature="8990:9194" ph="{...}" />
-            <marker date="1548079346283" expanded="true" signature="9388:9540" ph="{...}" />
-            <marker date="1548079346283" expanded="true" signature="9639:9949" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/nettydemo/TestServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1453,7 +987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1461,15 +994,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="14" column="78" lean-forward="false" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/nettydemo/TestServerInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1477,7 +1001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="81" column="13" lean-forward="false" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1485,7 +1008,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="138" column="7" lean-forward="true" selection-start-line="138" selection-start-column="7" selection-end-line="138" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1493,7 +1015,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="93" column="17" lean-forward="false" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1501,7 +1022,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="122" column="31" lean-forward="true" selection-start-line="122" selection-start-column="31" selection-end-line="122" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1509,7 +1029,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="70" column="45" lean-forward="false" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1549,11 +1068,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Maven/repo/org/springframework/spring-core/5.1.4.RELEASE/spring-core-5.1.4.RELEASE.jar!/org/springframework/core/task/support/ExecutorServiceAdapter.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.4.RELEASE/spring-core-5.1.4.RELEASE.jar!/org/springframework/core/task/support/ExecutorServiceAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1561,9 +1079,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1571,7 +1086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1579,10 +1093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1590,9 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1600,7 +1107,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
           <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1608,7 +1114,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1616,7 +1121,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1624,7 +1128,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1632,10 +1135,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1643,12 +1142,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1656,9 +1149,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
           <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1666,7 +1156,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1674,12 +1163,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-          <folding>
-            <element signature="e#791#792#0" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#992#993#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1687,16 +1170,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1704,16 +1177,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-          <folding>
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1721,7 +1184,156 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="50" column="18" lean-forward="false" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/techblog/netty/Netty框架.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="312">
+            <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.32.Final/netty-all-4.1.32.Final.jar!/io/netty/handler/codec/http/HttpServerCodec.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="61" column="23" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.32.Final/netty-all-4.1.32.Final.jar!/io/netty/channel/CombinedChannelDuplexHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3408">
+          <caret line="158" column="65" lean-forward="false" selection-start-line="158" selection-start-column="65" selection-end-line="158" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/nettydemo/TestHttpServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="58" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/nettydemo/TestServerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="19" column="56" lean-forward="false" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.32.Final/netty-all-4.1.32.Final.jar!/io/netty/handler/codec/LengthFieldBasedFrameDecoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="29" column="11" lean-forward="false" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.32.Final/netty-all-4.1.32.Final.jar!/io/netty/handler/codec/LengthFieldPrepender.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.32.Final/netty-all-4.1.32.Final-sources.jar!/io/netty/handler/codec/http/HttpServerCodec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.32.Final/netty-all-4.1.32.Final-sources.jar!/io/netty/channel/CombinedChannelDuplexHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.32.Final/netty-all-4.1.32.Final-sources.jar!/io/netty/handler/codec/LengthFieldPrepender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="63" column="39" lean-forward="false" selection-start-line="63" selection-start-column="39" selection-end-line="63" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.32.Final/netty-all-4.1.32.Final-sources.jar!/io/netty/handler/codec/LengthFieldBasedFrameDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/nettydemo/TestServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="59" lean-forward="true" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="56" lean-forward="true" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyServerInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" column="58" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="18" column="61" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyClientInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="18" column="64" lean-forward="true" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
