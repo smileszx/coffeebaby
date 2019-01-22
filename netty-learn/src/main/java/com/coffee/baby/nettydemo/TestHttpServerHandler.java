@@ -22,7 +22,7 @@ public class TestHttpServerHandler extends SimpleChannelInboundHandler<HttpObjec
                     HttpResponseStatus.OK, content);
             response.headers().set(HttpHeaderNames.CONTENT_TYPE, "text/plain");
             response.headers().set(HttpHeaderNames.CONTENT_LENGTH, content.readableBytes());
-            ctx.writeAndFlush(content);
+            ctx.writeAndFlush(response);
         }
     }
 }
