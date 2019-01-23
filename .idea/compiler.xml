@@ -17,7 +17,7 @@
       <module name="java-db-mybatis" target="1.8" />
       <module name="java-design-pattern" target="1.8" />
       <module name="netty-learn" target="1.8" />
-      <module name="spring-mvc" target="1.7" />
+      <module name="spring-mvc" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
