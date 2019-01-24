@@ -4,4 +4,14 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean id="myTestBean" class="com.coffee.baby.common.MyTestBean"/>
+
+    <bean id="helloBean" class="com.coffee.baby.common.HelloBean">
+        <property name="setValue" value="init value"></property>
+        <constructor-arg index="0" >
+            <value>zhengxiao</value>
+        </constructor-arg>
+        <constructor-arg index="1" >
+            <value>hello</value>
+        </constructor-arg>
+    </bean>
 </beans>

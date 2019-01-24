@@ -1,5 +1,6 @@
 package com.coffee.baby.mybatis;
 
+import lombok.extern.slf4j.Slf4j;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.apache.ibatis.session.SqlSessionFactoryBuilder;
@@ -12,10 +13,11 @@ import java.util.List;
  * Hello world!
  *
  */
+@Slf4j
 public class App 
 {
     public static void main( String[] args )
-    {
+        {
 
         System.out.println( "Hello World!" );
         String path1 = System.getProperty("user.dir");
