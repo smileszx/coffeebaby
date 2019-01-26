@@ -40,6 +40,8 @@
 
 ##### 1.4 WebService举例
 
+[格式虽然凌乱，但是可以参考写个Demo体验WebService](https://www.imooc.com/article/25537?block_id=tuijian_wz)
+
 调用其他人写好的WebService体验一下
 
 http://www.webxml.com.cn/zh_cn/index.aspx
