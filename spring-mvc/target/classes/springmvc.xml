@@ -17,5 +17,18 @@
          http://www.springframework.org/schema/mvc
          http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 
-    <context:component-scan base-package="com.coffee.baby.controller"/>
+    <context:component-scan base-package="com.coffee.baby"/>
+
+    <!--横切关注点和目标类-->
+    <bean id="agvCompass" class="com.coffee.baby.aop.AgvCompass"/>
+    <bean id="sortCompass" class="com.coffee.baby.aop.SortCompass"/>
+    <bean id="logHandler" class="com.coffee.baby.aop.LogHandler"/>
+    <!--proxy-target-class="true" 基于类的代理-->
+    <aop:config >
+        <aop:aspect id="log" ref="logHandler">
+            <aop:pointcut id="allMethod" expression="execution(* com.coffee.baby.aop.CompassInterface.*(..))"/>
+            <aop:before method="printDeviceLog" pointcut-ref="allMethod"/>
+            <aop:after method="printDeviceLog" pointcut-ref="allMethod"/>
+        </aop:aspect>
+    </aop:config>
 </beans>

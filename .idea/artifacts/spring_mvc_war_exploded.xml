@@ -26,6 +26,8 @@
           <element id="library" level="project" name="Maven: javax.servlet.jsp.jstl:javax.servlet.jsp.jstl-api:1.2.2" />
           <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
           <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.56" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.9.2" />
           <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.4" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.8.0-beta2" />
           <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-slf4j18-impl:2.11.1" />
