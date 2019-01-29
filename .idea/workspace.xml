@@ -6,20 +6,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdc56114-46a2-4e7b-9ad8-c4fed3cbd6ed" name="Default" comment="spring error handler">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AOPXmlConfigTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AgvCompass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/CompassInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/LogHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/SortCompass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_war_exploded.xml" afterDir="false" />
+    <list default="true" id="bdc56114-46a2-4e7b-9ad8-c4fed3cbd6ed" name="Default" comment="spring aop xml config">
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AOPAnnotationConfigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/ExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/ShuttleCompass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-mvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-mvc/src/main/resources/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc/src/main/resources/springmvc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-mvc/target/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc/target/classes/springmvc.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java-design-pattern/target/" />
     <ignored path="$PROJECT_DIR$/java-db-mybatis/target/" />
@@ -103,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AgvCompass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="152">
+              <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
               <folding>
                 <element signature="e#205#206#0" expanded="true" />
                 <element signature="e#241#242#0" expanded="true" />
@@ -131,21 +123,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/LogHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="171">
+              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
               <folding>
-                <element signature="e#169#170#0" expanded="true" />
                 <element signature="e#205#206#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/resources/springmvc.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+            <state relative-caret-position="202">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -153,11 +144,45 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AOPXmlConfigTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="58" lean-forward="true" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+            <state relative-caret-position="317">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/ExceptionHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/ShuttleCompass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="27" />
+              <folding>
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AOPAnnotationConfigTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -203,9 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyClient.java" />
-        <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyServer.java" />
-        <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/socketdemo/MyClientHandler.java" />
         <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/chatdemo/ChatClientHandler.java" />
         <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/chatdemo/ChatServerHandler.java" />
         <option value="$PROJECT_DIR$/netty-learn/src/main/java/com/coffee/baby/chatdemo/ChatServer.java" />
@@ -252,8 +274,11 @@
         <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AgvCompass.java" />
         <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/SortCompass.java" />
         <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/LogHandler.java" />
-        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AOPXmlConfigTest.java" />
         <option value="$PROJECT_DIR$/spring-mvc/src/main/resources/springmvc.xml" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AOPXmlConfigTest.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/ExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/ShuttleCompass.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AOPAnnotationConfigTest.java" />
       </list>
     </option>
   </component>
@@ -407,7 +432,7 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548776951564" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548778318739" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -447,9 +472,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AOPXmlConfigTest">
+  <component name="RunManager" selected="Application.AOPAnnotationConfigTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AOPAnnotationConfigTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coffee.baby.aop.AOPAnnotationConfigTest" />
+      <module name="spring-mvc" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coffee.baby.aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -502,20 +541,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.coffee.baby.reflect.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coffee.baby.pattern.dynamicproxy.DynamicProxyTest" />
-      <module name="java-design-pattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.coffee.baby.pattern.dynamicproxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -675,19 +700,19 @@
     <list>
       <item itemvalue="Application.ChatClient" />
       <item itemvalue="Application.ClazzReflectTest" />
-      <item itemvalue="Application.DynamicProxyTest" />
       <item itemvalue="Application.ClazzLoadTest" />
       <item itemvalue="Application.TestSuperThisClient" />
       <item itemvalue="Tomcat Server.springmvc" />
       <item itemvalue="Application.AOPXmlConfigTest" />
+      <item itemvalue="Application.AOPAnnotationConfigTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AOPAnnotationConfigTest" />
         <item itemvalue="Application.AOPXmlConfigTest" />
         <item itemvalue="Application.TestSuperThisClient" />
         <item itemvalue="Application.ClazzLoadTest" />
         <item itemvalue="Application.ClazzReflectTest" />
-        <item itemvalue="Application.DynamicProxyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -733,7 +758,7 @@
       <workItem from="1548289577740" duration="16654000" />
       <workItem from="1548415781766" duration="1927000" />
       <workItem from="1548508935038" duration="25612000" />
-      <workItem from="1548766327584" duration="7422000" />
+      <workItem from="1548766327584" duration="8700000" />
     </task>
     <task id="LOCAL-00001" summary="init coffee baby">
       <created>1547653276583</created>
@@ -833,7 +858,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548774083560</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="spring aop xml config">
+      <created>1548776990198</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1548776990198</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -869,7 +901,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154710000" />
+    <option name="totallyTimeSpent" value="155988000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -884,7 +916,7 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28954422" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.288874" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -894,7 +926,7 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32964602" />
-      <window_info active="true" anchor="bottom" x="22" y="305" width="1492" height="254" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.43490306" />
+      <window_info anchor="bottom" x="22" y="305" width="1492" height="254" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.43490306" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.40581718" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1023,7 +1055,8 @@
     <MESSAGE value="java classloader" />
     <MESSAGE value="super this" />
     <MESSAGE value="spring error handler" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring error handler" />
+    <MESSAGE value="spring aop xml config" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring aop xml config" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1066,41 +1099,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/xml/BeanDefinitionParserDelegate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="1360" column="17" lean-forward="true" selection-start-line="1360" selection-start-column="17" selection-end-line="1360" selection-end-column="17" />
-          <folding>
-            <element signature="e#14624#14625#0" expanded="true" />
-            <element signature="e#14675#14676#0" expanded="true" />
-            <element signature="e#47940#47941#0" expanded="true" />
-            <element signature="e#47983#47984#0" expanded="true" />
-            <element signature="e#51677#51678#0" expanded="true" />
-            <element signature="e#51713#51714#0" expanded="true" />
-            <element signature="e#52039#52040#0" expanded="true" />
-            <element signature="e#52072#52073#0" expanded="true" />
-            <element signature="e#52884#52885#0" expanded="true" />
-            <element signature="e#52939#52940#0" expanded="true" />
-            <element signature="e#52988#52989#0" expanded="true" />
-            <element signature="e#53051#53052#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/xml/NamespaceHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="48" column="20" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.4.RELEASE/spring-aop-5.1.4.RELEASE-sources.jar!/org/springframework/aop/config/AopNamespaceHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="64" column="54" selection-start-line="64" selection-start-column="54" selection-end-line="64" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.4.RELEASE/spring-aop-5.1.4.RELEASE-sources.jar!/org/springframework/aop/config/ConfigBeanDefinitionParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1440,19 +1438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AgvCompass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/SortCompass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1467,31 +1452,71 @@
     <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/resources/beanFactoryTest.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/LogHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="171">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding>
-            <element signature="e#169#170#0" expanded="true" />
             <element signature="e#205#206#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AOPXmlConfigTest.java">
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AgvCompass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="58" lean-forward="true" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+        <state relative-caret-position="152">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/ExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/resources/springmvc.xml">
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AOPXmlConfigTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        <state relative-caret-position="317">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/ShuttleCompass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AOPAnnotationConfigTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
         </state>
       </provider>
     </entry>
