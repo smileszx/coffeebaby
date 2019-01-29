@@ -86,6 +86,12 @@
             <artifactId>servlet-api</artifactId>
             <version>${servlet.version}</version>
         </dependency>
+        <!--fastjson alibaba-->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.56</version>
+        </dependency>
     </dependencies>
 
     <build>
