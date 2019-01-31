@@ -1,4 +1,4 @@
-package com.coffee.baby.arithmetic.sum;
+package com.coffee.baby.arithmetic.array;
 
 import java.util.*;
 
