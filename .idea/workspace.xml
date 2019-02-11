@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdc56114-46a2-4e7b-9ad8-c4fed3cbd6ed" name="Default" comment="HashSet clone =&gt; shallow copy of this set">
+    <list default="true" id="bdc56114-46a2-4e7b-9ad8-c4fed3cbd6ed" name="Default" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java-design-pattern/target/" />
@@ -69,7 +69,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -200,9 +200,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-13" />
+    <option name="x" value="-14" />
     <option name="y" value="330" />
-    <option name="width" value="1944" />
+    <option name="width" value="1945" />
     <option name="height" value="905" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -232,6 +232,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -292,8 +294,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -631,7 +631,8 @@
       <workItem from="1548766327584" duration="8903000" />
       <workItem from="1548809502446" duration="5997000" />
       <workItem from="1548909497686" duration="20967000" />
-      <workItem from="1549009723128" duration="1291000" />
+      <workItem from="1549009723128" duration="1844000" />
+      <workItem from="1549895413332" duration="1149000" />
     </task>
     <task id="LOCAL-00001" summary="init coffee baby">
       <created>1547653276583</created>
@@ -759,7 +760,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548950719148</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="test">
+      <created>1549032091793</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1549032091793</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -795,7 +803,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184446000" />
+    <option name="totallyTimeSpent" value="186148000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -809,7 +817,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23458445" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23793566" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -952,7 +960,8 @@
     <MESSAGE value="spring aop annotation config" />
     <MESSAGE value="add two sum" />
     <MESSAGE value="HashSet clone =&gt; shallow copy of this set" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashSet clone =&gt; shallow copy of this set" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
