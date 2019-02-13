@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdc56114-46a2-4e7b-9ad8-c4fed3cbd6ed" name="Default" comment="test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bdc56114-46a2-4e7b-9ad8-c4fed3cbd6ed" name="Default" comment="new year" />
     <ignored path="$PROJECT_DIR$/java-design-pattern/target/" />
     <ignored path="$PROJECT_DIR$/java-db-mybatis/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -199,7 +197,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-14" />
     <option name="y" value="330" />
     <option name="width" value="1945" />
@@ -632,7 +630,7 @@
       <workItem from="1548809502446" duration="5997000" />
       <workItem from="1548909497686" duration="20967000" />
       <workItem from="1549009723128" duration="1844000" />
-      <workItem from="1549895413332" duration="1149000" />
+      <workItem from="1549895413332" duration="1781000" />
     </task>
     <task id="LOCAL-00001" summary="init coffee baby">
       <created>1547653276583</created>
@@ -767,7 +765,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549032091793</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="new year">
+      <created>1549896590024</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1549896590024</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -803,7 +808,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186148000" />
+    <option name="totallyTimeSpent" value="186780000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -815,7 +820,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23793566" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -961,7 +966,8 @@
     <MESSAGE value="add two sum" />
     <MESSAGE value="HashSet clone =&gt; shallow copy of this set" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="new year" />
+    <option name="LAST_COMMIT_MESSAGE" value="new year" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
