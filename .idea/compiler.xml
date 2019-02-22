@@ -9,6 +9,7 @@
         <module name="java-db-mybatis" />
         <module name="java-design-pattern" />
         <module name="netty-learn" />
+        <module name="spring-aop" />
         <module name="spring-mvc" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="java-db-mybatis" target="1.8" />
       <module name="java-design-pattern" target="1.8" />
       <module name="netty-learn" target="1.8" />
+      <module name="spring-aop" target="1.8" />
       <module name="spring-mvc" target="1.8" />
     </bytecodeTargetLevel>
   </component>
