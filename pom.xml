@@ -24,6 +24,7 @@
     <module>spring-mvc</module>
       <module>netty-learn</module>
       <module>spring-aop</module>
+      <module>java-arithmetic</module>
   </modules>
 
   <dependencies>
