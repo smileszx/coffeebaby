@@ -8,20 +8,19 @@ package com.coffee.baby.pattern.singleton;
  */
 public class HungryModeSingleton {
 
-    private static HungryModeSingleton instance = null;
-
     private HungryModeSingleton() {
 
     }
 
+    public static class SingletonHolder {
+        private static HungryModeSingleton instance = new HungryModeSingleton();
+    }
+
     /**
-     * 静态工厂方法
+     * 静态内部类
      * @return
      */
     public static HungryModeSingleton getInstance () {
-        if (instance == null) {
-            instance = new HungryModeSingleton();
-        }
-        return instance;
+        return SingletonHolder.instance;
     }
 }
