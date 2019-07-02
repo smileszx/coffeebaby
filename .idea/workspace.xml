@@ -7,15 +7,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdc56114-46a2-4e7b-9ad8-c4fed3cbd6ed" name="Default" comment="mysql">
-      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/arrays/StatArrayItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/listnode/CycleListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/strings/LongestPalindromeStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/test/java/com/coffee/baby/pattern/CountDownLatchExampleOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/test/java/com/coffee/baby/pattern/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_42_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_tcnative_boringssl_static_1_1_33_Fork26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_client_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_common_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_logging_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_rocketmq_rocketmq_remoting_4_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/collection/AbstractBuilding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/collection/ArrayListCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/collection/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/collection/BuildingInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/collection/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/collection/TestClazz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/AbstractFlySimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/AirPlaneFlySimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/FighterFlySimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/FlySimulationClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/FlySimulationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/HarrierFlySimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/HelicopterFlySimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/threadpool/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/threadpool/MutiInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/threadpool/PolicyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/threadpool/SubMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/threadpool/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/threadpool/TestInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/threadpool/TestInterfaceSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/mq/AsyncProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/mq/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/mq/OnewayProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/mq/SyncProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_mvc_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/singleton/HungryModeSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/singleton/HungryModeSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-design-pattern/target/classes/META-INF/java-design-pattern.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/techblog/interview/面试记录20190321.md" beforeDir="false" afterPath="$PROJECT_DIR$/techblog/interview/面试记录20190321.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java-design-pattern/target/" />
     <ignored path="$PROJECT_DIR$/java-db-mybatis/target/" />
@@ -81,37 +107,63 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.4.RELEASE/spring-tx-5.1.4.RELEASE-sources.jar!/org/springframework/transaction/PlatformTransactionManager.java">
+        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/FlySimulationContext.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/threadpool/TestInterface.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/FlySimulationClient.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/HelicopterFlySimulation.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/AirPlaneFlySimulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="117" column="25" selection-start-line="117" selection-start-column="25" selection-end-line="117" selection-end-column="25" />
+            <state relative-caret-position="190">
+              <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.4.RELEASE/spring-tx-5.1.4.RELEASE-sources.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="340" column="35" selection-start-line="340" selection-start-column="35" selection-end-line="340" selection-end-column="35" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/threadpool/Client.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.4.RELEASE/spring-tx-5.1.4.RELEASE-sources.jar!/org/springframework/transaction/TransactionStatus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="49" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/threadpool/SubMethod.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/threadpool/MutiInterface.java">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/listnode/CycleListNode.java">
+        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/FighterFlySimulation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            <state relative-caret-position="171">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/HarrierFlySimulation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -167,12 +219,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-mvc/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/CompassInterface.java" />
-        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AgvCompass.java" />
-        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/SortCompass.java" />
-        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/LogHandler.java" />
-        <option value="$PROJECT_DIR$/spring-mvc/src/main/resources/springmvc.xml" />
         <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/AOPXmlConfigTest.java" />
         <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/ExceptionHandler.java" />
         <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/aop/ShuttleCompass.java" />
@@ -218,6 +264,12 @@
         <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/strings/Solution.java" />
         <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/strings/LongestPalindromeStr.java" />
         <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/listnode/CycleListNode.java" />
+        <option value="$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/collection/TestClazz.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/mq/Consumer.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/HarrierFlySimulation.java" />
+        <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/AirPlaneFlySimulation.java" />
+        <option value="$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/FighterFlySimulation.java" />
       </list>
     </option>
   </component>
@@ -308,6 +360,97 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="baby" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
+              <item name="java-design-pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
+              <item name="java-design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
+              <item name="java-design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
+              <item name="java-design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
+              <item name="java-design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="baby" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
+              <item name="java-design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="baby" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
+              <item name="java-design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="baby" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-mvc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffeebaby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coffeebaby" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-mvc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="baby" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -320,7 +463,7 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562079140990" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562080207800" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -334,11 +477,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GIT\coffeebaby\java-design-pattern\src\main\java\com\coffee\baby\pattern" />
+      <recent name="E:\GIT\coffeebaby\spring-mvc\src\main\java\com\coffee\baby" />
+      <recent name="E:\GIT\coffeebaby\java-arithmetic\src\main\java\com\coffee\baby" />
       <recent name="E:\GIT\coffeebaby\spring-aop\src\main\webapp\WEB-INF\views" />
       <recent name="E:\GIT\coffeebaby\spring-aop" />
-      <recent name="E:\GIT\coffeebaby\spring-aop\src\main\resources" />
-      <recent name="E:\GIT\coffeebaby\java-db-mybatis\src\main\java\resources" />
-      <recent name="E:\GIT\coffeebaby\spring-mvc\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.coffee.baby.aop" />
@@ -735,7 +878,7 @@
       <workItem from="1556628961642" duration="8232000" />
       <workItem from="1557368408182" duration="4119000" />
       <workItem from="1557566053787" duration="2618000" />
-      <workItem from="1561991053709" duration="10260000" />
+      <workItem from="1561991053709" duration="11118000" />
     </task>
     <task id="LOCAL-00001" summary="init coffee baby">
       <created>1547653276583</created>
@@ -941,7 +1084,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="259313000" />
+    <option name="totallyTimeSpent" value="260171000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -956,7 +1099,7 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3243968" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3243968" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -966,7 +1109,7 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
-      <window_info active="true" anchor="bottom" x="22" y="305" width="1492" height="254" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.18975069" />
+      <window_info anchor="bottom" x="22" y="305" width="1492" height="254" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.18975069" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.40581718" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1126,165 +1269,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.4.RELEASE/spring-webmvc-5.1.4.RELEASE-sources.jar!/org/springframework/web/servlet/view/UrlBasedViewResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="382" selection-start-line="382" selection-end-line="382" />
-          <folding>
-            <element signature="e#6386#6387#0" expanded="true" />
-            <element signature="e#6437#6438#0" expanded="true" />
-            <element signature="e#6716#6717#0" expanded="true" />
-            <element signature="e#6767#6768#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.4.RELEASE/spring-core-5.1.4.RELEASE-sources.jar!/org/springframework/cglib/proxy/MethodProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="243" selection-start-line="243" selection-end-line="243" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.4.RELEASE/spring-context-5.1.4.RELEASE-sources.jar!/org/springframework/context/annotation/ConfigurationClassEnhancer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="362" selection-start-line="362" selection-end-line="362" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-aop/src/main/java/com/coffee/baby/mvc/WebConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="157" selection-start-line="157" selection-end-line="157" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/ConstructorResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="456" selection-start-line="456" selection-end-line="456" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="501" selection-start-line="501" selection-end-line="501" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="250" selection-start-line="250" selection-end-line="250" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="198" selection-start-line="198" selection-end-line="198" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.4.RELEASE/spring-beans-5.1.4.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="853" column="32" selection-start-line="853" selection-start-column="32" selection-end-line="853" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6840">
-          <caret line="383" column="19" selection-start-line="383" selection-start-column="19" selection-end-line="383" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/SortedSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/NavigableSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/AbstractSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-arithmetic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19019">
-          <caret line="1046" column="28" selection-start-line="1046" selection-start-column="7" selection-end-line="1046" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/concurrent/CountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3002">
-          <caret line="197" column="27" selection-start-line="197" selection-start-column="27" selection-end-line="197" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-design-pattern/src/test/java/com/coffee/baby/pattern/CountDownLatchExampleOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_152/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/techblog/Geek.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="64">
-            <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.4.RELEASE/spring-tx-5.1.4.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="32" column="57" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.4.RELEASE/spring-tx-5.1.4.RELEASE-sources.jar!/org/springframework/transaction/TransactionDefinition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -1511,8 +1495,107 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/listnode/CycleListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        <state relative-caret-position="-38">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/collection/ArrayListCode.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/collection/DeadLock.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/collection/Building.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/collection/BuildingInterface.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/collection/TestClazz.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-arithmetic/src/main/java/com/coffee/baby/collection/AbstractBuilding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="107" column="50" selection-start-line="107" selection-start-column="50" selection-end-line="107" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/mq/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/mq/AsyncProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/mq/OnewayProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/coffee/baby/mq/SyncProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/FlySimulationContext.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/threadpool/TestInterface.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/FlySimulationClient.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/HelicopterFlySimulation.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/threadpool/Client.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/threadpool/SubMethod.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/threadpool/MutiInterface.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/HarrierFlySimulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/AirPlaneFlySimulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-design-pattern/src/main/java/com/coffee/baby/pattern/strategy/FighterFlySimulation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
         </state>
       </provider>
     </entry>
