@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/bamboo-common/bamboo-common.iml" filepath="$PROJECT_DIR$/bamboo-common/bamboo-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/coffebaby.iml" filepath="$PROJECT_DIR$/coffebaby.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-arithmetic/java-arithmetic.iml" filepath="$PROJECT_DIR$/java-arithmetic/java-arithmetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-db-mybatis/java-db-mybatis.iml" filepath="$PROJECT_DIR$/java-db-mybatis/java-db-mybatis.iml" />

@@ -25,6 +25,7 @@
       <module>netty-learn</module>
       <module>spring-aop</module>
       <module>java-arithmetic</module>
+      <module>bamboo-common</module>
   </modules>
 
   <dependencies>

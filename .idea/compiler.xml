@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="bamboo-common" />
         <module name="java-arithmetic" />
         <module name="java-db-mybatis" />
         <module name="java-design-pattern" />
@@ -15,6 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="bamboo-common" target="1.8" />
       <module name="coffebaby" target="1.8" />
       <module name="java-arithmetic" target="1.8" />
       <module name="java-db-mybatis" target="1.8" />
